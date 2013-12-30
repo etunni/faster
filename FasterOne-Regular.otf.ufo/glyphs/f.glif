@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="591"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="538" y="192" type="line" name="hr00"/>
+      <point x="558" y="311" type="line"/>
+      <point x="426" y="311" type="line"/>
+      <point x="438" y="379" type="line"/>
+      <point x="583" y="379" type="line"/>
+      <point x="629" y="529" type="line"/>
+      <point x="296" y="529" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="406" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="3" type="line"/>
+      <point x="180" y="48" type="line"/>
+      <point x="-252" y="48" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="196" type="line"/>
+      <point x="214" y="241" type="line"/>
+      <point x="-218" y="241" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="292" type="line"/>
+      <point x="231" y="337" type="line"/>
+      <point x="-201" y="337" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="388" type="line"/>
+      <point x="248" y="433" type="line"/>
+      <point x="-184" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="484" type="line"/>
+      <point x="264" y="529" type="line"/>
+      <point x="-167" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="100" type="line"/>
+      <point x="197" y="145" type="line"/>
+      <point x="-235" y="145" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="21" width="-21" />
+      <hstem pos="192" width="119" />
+      <hstem pos="379" width="150" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis" format="1">
+  <advance width="656"/>
+  <unicode hex="00EB"/>
+  <outline>
+    <contour>
+      <point x="559" y="215" type="line"/>
+      <point x="576" y="311" type="line"/>
+      <point x="426" y="311" type="line"/>
+      <point x="438" y="379" type="line"/>
+      <point x="601" y="379" type="line"/>
+      <point x="648" y="529" type="line"/>
+      <point x="296" y="529" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="583" y="147" type="line"/>
+      <point x="398" y="147" type="line"/>
+      <point x="410" y="215" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="3" type="line"/>
+      <point x="179" y="48" type="line"/>
+      <point x="-253" y="48" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="196" type="line"/>
+      <point x="213" y="241" type="line"/>
+      <point x="-219" y="241" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="292" type="line"/>
+      <point x="230" y="337" type="line"/>
+      <point x="-202" y="337" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="388" type="line"/>
+      <point x="247" y="433" type="line"/>
+      <point x="-185" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="484" type="line"/>
+      <point x="263" y="529" type="line"/>
+      <point x="-168" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="100" type="line"/>
+      <point x="196" y="145" type="line"/>
+      <point x="-236" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="599" y="738" type="curve" smooth="yes" name="hr01"/>
+      <point x="533" y="738" smooth="yes"/>
+      <point x="508" y="709" smooth="yes"/>
+      <point x="508" y="630" type="curve" smooth="yes"/>
+      <point x="508" y="596" smooth="yes"/>
+      <point x="524" y="582" smooth="yes"/>
+      <point x="572" y="582" type="curve" smooth="yes"/>
+      <point x="638" y="582" smooth="yes"/>
+      <point x="663" y="611" smooth="yes"/>
+      <point x="663" y="690" type="curve" smooth="yes"/>
+      <point x="663" y="724" smooth="yes"/>
+      <point x="647" y="738" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="391" y="738" type="curve" smooth="yes"/>
+      <point x="325" y="738" smooth="yes"/>
+      <point x="300" y="709" smooth="yes"/>
+      <point x="300" y="630" type="curve" smooth="yes"/>
+      <point x="300" y="596" smooth="yes"/>
+      <point x="316" y="582" smooth="yes"/>
+      <point x="364" y="582" type="curve" smooth="yes"/>
+      <point x="429" y="582" smooth="yes"/>
+      <point x="455" y="611" smooth="yes"/>
+      <point x="455" y="690" type="curve" smooth="yes"/>
+      <point x="455" y="724" smooth="yes"/>
+      <point x="438" y="738" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="287" y="723" type="curve" name="hr02"/>
+      <point x="-29" y="723" type="line"/>
+      <point x="273" y="677" type="line"/>
+      <point x="276" y="695"/>
+      <point x="280" y="710"/>
+    </contour>
+    <contour>
+      <point x="270" y="630" type="curve"/>
+      <point x="270" y="644" type="line" name="hr03"/>
+      <point x="-29" y="644" type="line"/>
+      <point x="273" y="598" type="line"/>
+      <point x="271" y="607"/>
+      <point x="270" y="618"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="582" width="156" />
+      <vstem pos="300" width="155" />
+      <vstem pos="508" width="155" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="582" width="141" />
+      <vstem pos="270" width="30" />
+      <vstem pos="455" width="53" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="582" width="62" />
+      <vstem pos="270" width="30" />
+      <vstem pos="455" width="53" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
