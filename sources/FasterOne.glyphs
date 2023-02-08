@@ -29655,7 +29655,7 @@ unicode = 293;
 },
 {
 glyphname = i;
-lastChange = "2023-02-08 11:04:44 +0000";
+lastChange = "2023-02-08 11:29:31 +0000";
 layers = (
 {
 background = {
@@ -29725,10 +29725,6 @@ layerId = master01;
 shapes = (
 {
 ref = idotless;
-},
-{
-pos = (276,0);
-ref = dotaccentcomb;
 }
 );
 width = 489;
@@ -30834,7 +30830,7 @@ unicode = 299;
 },
 {
 glyphname = iogonek;
-lastChange = "2023-02-08 11:04:57 +0000";
+lastChange = "2023-02-08 11:29:33 +0000";
 layers = (
 {
 background = {
@@ -30955,10 +30951,6 @@ layerId = master01;
 shapes = (
 {
 ref = idotless;
-},
-{
-pos = (276,0);
-ref = dotaccentcomb;
 },
 {
 pos = (53,0);
@@ -31100,7 +31092,7 @@ unicode = 297;
 },
 {
 glyphname = j;
-lastChange = "2023-02-08 10:34:42 +0000";
+lastChange = "2023-02-08 11:29:43 +0000";
 layers = (
 {
 background = {
@@ -31180,10 +31172,6 @@ layerId = master01;
 shapes = (
 {
 ref = jdotless;
-},
-{
-pos = (332,0);
-ref = dotaccentcomb;
 }
 );
 width = 534;
